@@ -1,0 +1,31 @@
+body {
+    background-color: #f5e6ff;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    color: #8e44ad;
+    font-size: 40px;
+}
+
+h2 {
+    color: #5e3370;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+img {
+    width: 500px;
+    max-width: 90%;
+    border-radius: 15px;
+}
+
+a {
+    color: #8e44ad;
+    font-weight: bold;
+}
